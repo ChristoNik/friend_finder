@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    max-width: 1080px;
+}
+.content {
+    min-height: 430px;
+}
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+h1 {
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
